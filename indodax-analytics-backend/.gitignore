@@ -1,0 +1,8 @@
+__pycache__
+env
+htmlcov
+.idea/
+venv
+temp
+app.log
+nohoup.out
